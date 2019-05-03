@@ -15,7 +15,7 @@ $resultado = mysqli_query($conexion, $sql);
 <body>
 	<div id="fondo">
 		<div class="trian"></div>
-
+		<p>Este es el proyecto de Movy Rute</p>
 		<div class="controles">
 			<img class="vi" src="img/video.png" alt="">		
 			<a href="#con" class="imagen">
